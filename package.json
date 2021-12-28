@@ -1,0 +1,19 @@
+{
+  "name": "simple-scrollspy",
+  "version": "1.0.0",
+  "description": "simple-scrollspysimple-scrollspy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrangJuny/simple-scrollspy.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TrangJuny/simple-scrollspy/issues"
+  },
+  "homepage": "https://github.com/TrangJuny/simple-scrollspy#readme"
+}
